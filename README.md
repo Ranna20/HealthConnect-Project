@@ -54,6 +54,7 @@ Previous No-Show | Count of patients with a history of previous no-shows | 1,232
 1. Shared EDA findings and KPIs
 2. Cross validated core numbers(5000, 2314,2423)
 3. Aligned on feature definitions including previous_noshow_rate, reminder_and_channel, and interaction features (distance × reminder, age/gender patterns)
+
 **Project Management**
 1. Provided insights on 30-40km group analysis, booking lead time patterns
 2. KPI recommendations for post-intervention tracking
