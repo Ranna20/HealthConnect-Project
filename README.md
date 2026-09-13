@@ -6,8 +6,8 @@ Analyzing appointment no-show patterns to help HealthConnect Clinic reduce misse
 ## Project Status
 - ✅ Week 4: Project Kickoff & Problem Understanding
 - ✅ Week 5: Data Preparation & Exploratory Analysis
-- 🔄 Week 6: Analysis & Solution Design
-- ⏳ Week 7: Testing & Refinement
+- ✅ Week 6: Analysis & Solution Design
+- 🔄 Week 7: Testing & Refinement
 - ⏳ Week 8: Final Presentation
 
 ## Dataset
